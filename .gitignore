@@ -1,1 +1,8 @@
 *.user
+*.vs
+.qmake.stash
+debug/*
+release/*
+x64/*
+ui_mainwindow.h
+*.filters
