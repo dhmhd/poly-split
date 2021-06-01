@@ -1,8 +1,8 @@
 #ifndef POLYGON_H
 #define POLYGON_H
 
-#include <line.h>
-#include <vector.h>
+#include "line.h"
+#include "vector.h"
 
 class Polygon
 {
